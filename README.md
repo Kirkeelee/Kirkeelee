@@ -18,7 +18,7 @@ https://audits.sherlock.xyz/watson/Kirkeelee
 | Midas - Instant Minter/Redeemer        | 1 (1M)                  | 809.83 USDC |
 | MakerDAO Endgame                       | N/A                     | 240.35 USDC |
 | Velocimeter                            | 1 (1H)                  | 438.92 USDC |
-| Euler-v2                               | N/A                     | 694 USDC  |
+| Euler-v2                               | FV                      | 694 USDC  |
 | Kwenta x Perennial Integration Update  | N/A                     | 44.54 USDC |
 | LoopFi                                 | 1 (1H)                  | 386.08 USDC |
 | xKeeper                                | 1 (1M)                  | 831.96 USDC |
@@ -26,3 +26,5 @@ https://audits.sherlock.xyz/watson/Kirkeelee
 | Althea Liquid Infrastructure           | 1 (1H)                  | 25.73 USDC |
 | Ion Protocol                           | FV                      | 86.5 USDC |
 | Sparkn                                 | 1 (1M)                  | 1.32 USDC |
+
+FV: formal verification contest.
