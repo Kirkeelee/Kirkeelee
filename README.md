@@ -1,10 +1,10 @@
 
-Hi there! I'm an independent security researcher with hands-on experience auditing smart contracts, uncovering vulnerabilities in blockchain systems, and applying formal verification techniques to ensure protocol correctness.
+<h3>Hi there! I'm an independent security researcher with hands-on experience auditing smart contracts, uncovering vulnerabilities in blockchain systems, and applying formal verification techniques to ensure protocol correctness.</h3>
+
+
+<h3>Contact me on [X](https://x.com/0xKER2) or [Telegram](http://t.me/Oxker2) for audits in Solidity, Move, Rust, Cairo, Golang.</h3>
 
 # My audit portfolio
-
-Contact me on [X](https://x.com/0xKER2) or [Telegram](http://t.me/Oxker2) for audits in Solidity, Move, Rust, Cairo, Golang. 
-
 
 | Project                             | Findings | Severity (M/H) | Notes       |
 |-------------------------------------|----------|----------------|-------------|
