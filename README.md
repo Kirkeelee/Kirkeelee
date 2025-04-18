@@ -8,7 +8,8 @@
 
 | Project                             | Findings | Severity (M/H) | Notes       |
 |-------------------------------------|----------|----------------|-------------|
-| Blend V2 (Rust)                     | 1        | 2M             | Rank 22    |
+|Gamma  (Solidity)                              | 2        |  2M            | Rank 8   |
+|Blend V2 (Rust)                     | 2        | 2M             | Rank 22    |
 | Rova    (Solidity, Move)                            | 1        | 1M             | Rank 3      |
 | Zaros Part2(Solidity)                         | 2        | 2H             | Rank 48     |
 | Plaza Finance (Solidity)                      | 2        | 1H, 1M         | Rank 82     |
