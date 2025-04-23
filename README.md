@@ -1,8 +1,8 @@
+# Hi there! 👋 I'm Kirkeelee
 
-<h3>Hi there! I'm an independent security researcher with hands-on experience auditing smart contracts, uncovering vulnerabilities in blockchain systems, and applying formal verification.</h3>
+I'm an independent **security researcher and auditor** specializing in **blockchain systems**, **smart contracts**, and **formal verification**. My mission is to uncover vulnerabilities and help projects secure their protocols.
 
-
-<h3>Contact me on <a href="https://x.com/0xKER2">X</a> or <a href="http://t.me/Oxker2">Telegram</a> for audits in Solidity, Move, Rust, Cairo, Golang.</h3>
+📫 **Contact me on** [X](https://x.com/0xKER2) or [Telegram](http://t.me/Oxker2) for audits in **Solidity**, **Move**, **Rust**, **Cairo**, and **Golang**.
 
 
 
