@@ -5,15 +5,6 @@
 <h3>Contact me on <a href="https://x.com/0xKER2">X</a> or <a href="http://t.me/Oxker2">Telegram</a> for audits in Solidity, Move, Rust, Cairo, Golang.</h3>
 
 
-# Profile Pages
-
-[Code4rena](https://code4rena.com/@Kirkeelee)
-
-[Sherlock](https://audits.sherlock.xyz/watson/Kirkeelee)
-
-[Codehawks](https://profiles.cyfrin.io/u/kirkeelee)
-
-[Cantina](https://cantina.xyz/u/kirkeelee)
 
 # My audit portfolio
 
@@ -45,3 +36,13 @@
 | USSD              (Solidity)                  | 1        | 1H             | Rank 91     |
 
 FV: formal verification contest.
+
+# Profile Pages
+
+[Code4rena](https://code4rena.com/@Kirkeelee)
+
+[Sherlock](https://audits.sherlock.xyz/watson/Kirkeelee)
+
+[Codehawks](https://profiles.cyfrin.io/u/kirkeelee)
+
+[Cantina](https://cantina.xyz/u/kirkeelee)
