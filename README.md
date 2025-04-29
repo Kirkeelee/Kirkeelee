@@ -10,7 +10,8 @@ I'm an independent **security researcher and auditor** specializing in **blockch
 
 | Project                             | Findings | Severity (M/H) | Notes       |
 |-------------------------------------|----------|----------------|-------------|
-|Gamma  (Solidity)                              | 2        |  2M            | Rank 7   |
+|Starknet Perps (Cairo)                     |  2       |1H, 1L          | Rank 37     | 
+Gamma  (Solidity)                              | 2        |  2M            | Rank 7   |
 |Blend V2 (Rust)                     | 2        | 2M             | Rank 22    |
 | Rova    (Solidity, Move)                            | 1        | 1M             | Rank 3      |
 | Zaros Part2(Solidity)                         | 2        | 2H             | Rank 48     |
