@@ -39,10 +39,9 @@ Gamma  (Solidity)                              | 2        |  2M            | Ran
 FV: formal verification contest.
 
 # Profile Pages
+[Sherlock](https://audits.sherlock.xyz/watson/Kirkeelee)
 
 [Code4rena](https://code4rena.com/@Kirkeelee)
-
-[Sherlock](https://audits.sherlock.xyz/watson/Kirkeelee)
 
 [Codehawks](https://profiles.cyfrin.io/u/kirkeelee)
 
