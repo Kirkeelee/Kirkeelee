@@ -6,7 +6,7 @@ I'm an independent **security researcher / auditor** specializing in **blockchai
 
 ---
 
-## Notable Wins
+## Notable Contest Wins
 
 | Project                                | Findings | Severity (M/H) | Notes       |
 |----------------------------------------|----------|----------------|-------------|
@@ -24,6 +24,13 @@ I'm an independent **security researcher / auditor** specializing in **blockchai
 ---
 
 # My Audit Portfolio
+
+## Private Engagements
+| Client Name       | Engagement Type | Findings |
+|-------------------|-----------------|------|
+| Seamless Protocol - Leverage Tokens (Solidity) | Sherlock Collaborative Audit  |  - |
+
+## Contests
 
 | Project                                | Findings | Severity (M/H) |
 |----------------------------------------|----------|----------------|
