@@ -34,6 +34,7 @@ I'm an independent **security researcher / auditor** specializing in **blockchai
 
 | Project                                | Findings | Severity (M/H) |
 |----------------------------------------|----------|----------------|
+|Lend (Solidity)                         |  10      |   8H, 2M       |
 |Native Smart Contracts V2(Solidity)     | 3        | 1H, 2M         | 
 |Starknet Perps (Cairo)                 |  2       | 1H, 1L         |
 | Gamma Liquidity Management (Solidity) | 2        | 2M             |
