@@ -28,12 +28,15 @@ I'm an independent **security researcher / auditor** specializing in **blockchai
 ## Private Engagements
 | Client Name       | Engagement Type | Report |
 |-------------------|-----------------|------|
-| Seamless Protocol - Leverage Tokens (Solidity) | Sherlock Collaborative Audit  | [Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2025.05.19%20-%20Final%20-%20Seamless%20Protocol%20Collaborative%20Audit%20Report.pdf)  |
+|3Jane (Solidity)             | Sherlock Collaborative Audit  |      |
+|Seamless Protocol - Leverage Tokens (Solidity) | Sherlock Collaborative Audit  | [Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2025.05.19%20-%20Final%20-%20Seamless%20Protocol%20Collaborative%20Audit%20Report.pdf)  |
 
 ## Contests
 
 | Project                                | Findings | Severity (M/H) |
 |----------------------------------------|----------|----------------|
+|Mellow Flexible Vaults (Solidity)       | 1        |  1M            |
+|Succint Network(Solidity)               |1         | 1M             |
 |DODO Cross-Chain DEX (Solidity)         | 1         |1M             |
 |Lend (Solidity)                         |  10      |   8H, 2M       |
 |Native Smart Contracts V2(Solidity)     | 3        | 1H, 2M         | 
