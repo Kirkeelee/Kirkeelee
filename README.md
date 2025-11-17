@@ -38,6 +38,7 @@ I'm an independent **security researcher / auditor** specializing in **blockchai
 
 | Project                                | Findings | Severity (M/H) |
 |----------------------------------------|----------|----------------|
+|Dango Dex (Rust)                        | 1        |   1M      |
 |Super DCA Liquidity Network (Solidity   | 3        |  2H, 1M        |
 |Mellow Flexible Vaults (Solidity)       | 1        |  1M            |
 |Succint Network(Solidity)               |1         | 1M             |
