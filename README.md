@@ -30,6 +30,7 @@ I'm an independent **security researcher / auditor** specializing in **blockchai
 ## Private Engagements
 | Client Name       | Engagement Type | Report |
 |-------------------|-----------------|------|
+|Sake Finance (Solidity) | Sherlock Collaborative Audit  |   |
 |Bounce (Solidity)   |Guardian Audits   |        |
 |3Jane (Solidity)             | Sherlock Collaborative Audit  |      |
 |Seamless Protocol - Leverage Tokens (Solidity) | Sherlock Collaborative Audit  | [Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2025.06.05%20-%20Final%20-%20Seamless%20Protocol%20Collaborative%20Audit%20Report%201749131188.pdf)  |
