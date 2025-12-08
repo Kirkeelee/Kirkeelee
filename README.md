@@ -30,6 +30,7 @@ I'm an independent **security researcher / auditor** specializing in **blockchai
 ## Private Engagements
 | Client Name       | Engagement Type | Report |
 |-------------------|-----------------|------|
+|ProvLabs Nu Blockchain(Solidity, Rust, Go)   |Sherlock Collaborative Audit  |   |
 |Sake Finance (Solidity) | Sherlock Collaborative Audit  |   |
 |Bounce (Solidity)   |Guardian Audits   |        |
 |3Jane (Solidity)             | Sherlock Collaborative Audit  | [Report](https://github.com/Kirkeelee/AuditReports/blob/main/2025.08.26%20-%20Final%20-%203Jane%20Collaborative%20Audit%20Report%201756227448.pdf)     |
