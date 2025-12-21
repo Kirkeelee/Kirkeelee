@@ -30,6 +30,7 @@ I'm an independent **security researcher / auditor** specializing in **blockchai
 ## Private Engagements
 | Client Name       | Engagement Type | Report |
 |-------------------|-----------------|------|
+|C8ntinuum Launchpad (Solidity)  |  Solo audit | [Report](https://github.com/Kirkeelee/AuditReports/blob/main/Security%20Review%20For%20C8ntinuum%20Launchpad%20Protocol.pdf)|
 |ProvLabs Nu Blockchain(Solidity, Rust, Go)   |Sherlock Collaborative Audit  |   |
 |Sake Finance (Solidity) | Sherlock Collaborative Audit  |   |
 |Bounce (Solidity)   |Guardian Audits   |        |
