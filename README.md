@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Kirkeelee
 
-I'm an independent **security researcher / auditor** specializing in **blockchain systems**, **smart contracts**, and **formal verification**. My mission is to uncover vulnerabilities and help projects improve their security.
+I'm an independent Auditor & Security Researcher. Specializing in smart contracts, formal verification, and securing blockchain infrastructure.
+
+.
 
 📫 **Contact me on** [X](https://x.com/kirkeelee) or [Telegram](http://t.me/Oxker2) for audits in **Solidity**, **Move**, **Rust**, **Cairo**, and **Golang**.
 
