@@ -3,7 +3,7 @@
 I'm an independent Auditor & Security Researcher. Specializing in smart contracts, formal verification, and securing blockchain infrastructure.
 
 
-📫 **Contact me on** [X](https://x.com/kirkeelee) or [Telegram](http://t.me/Oxker2) for audits in **Solidity**, **Move**, **Rust**, **Cairo**, and **Golang**.
+📫 **Contact me on** [X](https://x.com/kirkeelee) or [Telegram](http://t.me/Oxker2) for audits of **DeFi protocols**, **Cross-chain infrastructure**, and **Blockchain systems**.
 
 ---
 
