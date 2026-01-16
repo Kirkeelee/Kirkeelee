@@ -11,17 +11,17 @@ I'm an independent Auditor & Security Researcher. Specializing in smart contract
 
 | Project                                | Rank       |
 |---------------------------------------|-------------|
-| Index x Morpho Leverage Integration(Solidity)| Rank 1      |
-| xKeeper (Solidity)                      | Rank 2      |
-| Rova (Solidity, Move)                  | Rank 3      |
-| Covalent - EWM Light Client (Solidity)  | Rank 3      |
-| LoopFi (Solidity)                       | Rank 3      |
-| Gamma Liquidity Management (Solidity)  | Rank 7      |
-| Midas - Instant Minter/Redeemer (Solidity) | Rank 7      |
-| Tokemak (Solidity)                      | Rank 7      |
-| Kwenta x Perennial Integration Update(Solidity)| Rank 7      |
-| AXION (Solidity)                       | Rank 9      |
-|Super DCA Liquidity Network (Solidity)  | Rank 9   |
+| Index x Morpho Leverage Integration(Solidity)| 🥇 1st Place      |
+| xKeeper (Solidity)                      | 🥈 2nd Place      |
+| Rova (Solidity, Move)                  | 🥉 3rd Place      |
+| Covalent - EWM Light Client (Solidity)  | 🥉 3rd Place      |
+| LoopFi (Solidity)                       | 🥉 3rd Place      |
+| Gamma Liquidity Management (Solidity)  | 7th Place      |
+| Midas - Instant Minter/Redeemer (Solidity) | 7th Place      |
+| Tokemak (Solidity)                      | 7th Place      |
+| Kwenta x Perennial Integration Update(Solidity)| 7th Place      |
+| AXION (Solidity)                       | 9th Place      |
+|Super DCA Liquidity Network (Solidity)  | 9th Place   |
 
 
 ---
