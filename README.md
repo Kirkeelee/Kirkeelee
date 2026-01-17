@@ -39,8 +39,9 @@ I'm an independent Auditor & Security Researcher. Specializing in smart contract
 |Seamless Protocol - Leverage Tokens (Solidity) | Sherlock Collaborative Audit  | Leverage Tokens (LTs) that turn complex DeFi strategies into simple ERC-20 tokens. Think of them as leverage you can hold in your wallet like any other token. Anyone can buy an LT for exposure, sell to exit, or use across other DeFi protocols. All the borrowing, rebalancing, and position management happens automatically in the background. | [Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2025.06.05%20-%20Final%20-%20Seamless%20Protocol%20-%20Leverage%20Tokens%20Audit%20Report.pdf)|
 
 ## Contests
+[Sherlock Profile](https://audits.sherlock.xyz/watson/Kirkeelee)
 
-| Project                                | Description | Severity (M/H) |
+| Project                                | Description | Findings (M/H) |
 |----------------------------------------|-------------|----------------|
 |Reserve Money (Solidity)                |    Rezerve Money (RZR) is a decentralized treasury accumulation protocol with one mission: accumulate 1 million ETH—powered entirely by community and DeFi.         | 1H, 3M         |
 |Dango Dex (Rust)                        |  Dango is an all-in-one DeFi L1 chain, running on its own Rust-based virtual machine.            |   1M      |
