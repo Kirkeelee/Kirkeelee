@@ -1,13 +1,23 @@
-# Hi there! 👋 I'm Kirkeelee
+# Kirkeelee | Smart Contract Auditor & Blockchain Security Researcher
 
-I'm an independent Auditor & Security Researcher. Specializing in smart contracts, formal verification, and securing blockchain infrastructure.
+**Independent Security Auditor** specializing in **smart contract audits**, **formal verification**, and **blockchain security** for DeFi protocols, cross-chain infrastructure, and Web3 applications.
 
+🔍 **Audit Services:** Solidity Audits | Rust Audits | Move Audits | Cairo Audits | Go Audits | Security Consulting
 
-📫 **Contact me on** [X](https://x.com/kirkeelee) or [Telegram](http://t.me/Oxker2) for audits of **DeFi protocols**, **Cross-chain infrastructure**, and **Blockchain systems**.
+📫 **Book an Audit:** [X (@kirkeelee)](https://x.com/kirkeelee) | [Telegram (@Oxker2)](http://t.me/Oxker2)
 
 ---
 
-## Notable Contest Wins
+## 🛡️ Security Expertise
+
+- **Smart Contract Security Audits** (Solidity, Move, Rust, Cairo, Golang)  
+- **DeFi Protocol Security Reviews**  
+- **Cross-chain Bridge & Infrastructure Audits**  
+- **Formal Verification & Invariant Testing**  
+
+---
+
+## 🏆 Notable Contest Wins
 
 | Project                                | Rank       |
 |---------------------------------------|-------------|
@@ -89,3 +99,13 @@ FV: formal verification contest.
 [Codehawks](https://profiles.cyfrin.io/u/kirkeelee)
 
 [Cantina](https://cantina.xyz/u/kirkeelee)
+
+
+## 🔗 Links
+- **X (Twitter):** [@kirkeelee](https://x.com/kirkeelee)
+- **Telegram:** [@Oxker2](http://t.me/Oxker2)
+- **Audit Reports:** [View All Reports](https://github.com/Kirkeelee/AuditReports)
+
+---
+
+**Keywords:** smart contract auditor, blockchain security, Solidity audit, DeFi security, Web3 security researcher, vulnerability assessment, security consultant
