@@ -39,8 +39,9 @@
 # My Audit Portfolio
 
 ## Private Engagements
-| Client Name       | Engagement Type | Description | Report |
+| Project       | Engagement Type | Description | Report |
 |-------------------|-----------------|-------------|------|
+|40acres Finance    | Sherlock Collaborative Audit |  40Acres is the leading DeFi protocol to lend, borrow, and automate strategies for vote escrow NFTs holders, like veAERO & veVELO.    |      |
 |C8ntinuum Launchpad (Solidity)  |  Solo Audit | TheDecentralized launchpad for token creation, funding, and trading via bonding curves. | [Report](https://github.com/Kirkeelee/AuditReports/blob/main/Security%20Review%20For%20C8ntinuum%20Launchpad%20Protocol.pdf)|
 |ProvLabs Nu Blockchain(Solidity, Rust, Go)   |Sherlock Collaborative Audit  |Blockchain platform enabling global access to real-world assets with no minimums or lockups.|   |
 |Sake Finance (Solidity) | Sherlock Collaborative Audit  | Transparent yield platform generating sustainable returns from onchain and RWA sources.  |   |
