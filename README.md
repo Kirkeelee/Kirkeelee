@@ -47,7 +47,7 @@
 |Sake Finance (Solidity) | Sherlock Collaborative Audit  | Transparent yield platform generating sustainable returns from onchain and RWA sources.  |   |
 |Bounce (Solidity)   |Guardian Audits   |  |      |
 |3Jane (Solidity)             | Sherlock Collaborative Audit  |Credit-based money market enabling unsecured credit lines backed by verifiable crypto proofs. | [Report](https://github.com/Kirkeelee/AuditReports/blob/main/2025.08.26%20-%20Final%20-%203Jane%20Collaborative%20Audit%20Report%201.0.pdf)|
-|Seamless Protocol - Leverage Tokens (Solidity) | Sherlock Collaborative Audit  | Leverage tokens simplifying complex DeFi strategies into tradeable ERC-20 tokens. | [Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2025.06.05%20-%20Final%20-%20Seamless%20Protocol%20-%20Leverage%20Tokens%20Audit%20Report.pdf)|
+|Seamless Protocol - Leverage Tokens (Solidity) | Sherlock Collaborative Audit  | Leverage tokens simplifying complex DeFi strategies into tradeable ERC-20 tokens. | [Report](https://github.com/Kirkeelee/AuditReports/blob/main/2025.06.05%20-%20Final%20-%20Seamless%20Protocol%20Collaborative%20Audit%20Report%201749131188.pdf)|
 
 ## Contests
 [Sherlock Profile with all contest activity](https://audits.sherlock.xyz/watson/Kirkeelee)
