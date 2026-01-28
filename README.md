@@ -45,7 +45,7 @@
 |C8ntinuum Launchpad (Solidity)  |  Solo Audit | TheDecentralized launchpad for token creation, funding, and trading via bonding curves. | [Report](https://github.com/Kirkeelee/AuditReports/blob/main/Security%20Review%20For%20C8ntinuum%20Launchpad%20Protocol.pdf)|
 |ProvLabs Nu Blockchain(Solidity, Rust, Go)   |Sherlock Collaborative Audit  |Blockchain platform enabling global access to real-world assets with no minimums or lockups.|   |
 |Sake Finance (Solidity) | Sherlock Collaborative Audit  | Transparent yield platform generating sustainable returns from onchain and RWA sources.  |   |
-|Bounce (Solidity)   |Guardian Audits   |  |      |
+|Bounce (Solidity)   |Guardian Audits   | Bounce.Tech is a permissionless non-custodial leveraged token platform built on Hyperliquid. It enables users to mint and redeem leveraged tokens (LTs) for over 200 assets with up to 10x leverage. All LTs are backed by Hyperliquid perpetual futures contracts. |   [Report](https://github.com/GuardianAudits/Audits/blob/main/Bounce/Bounce_Leveraged_Token_Protocol_Review_report.pdf)   |
 |3Jane (Solidity)             | Sherlock Collaborative Audit  |Credit-based money market enabling unsecured credit lines backed by verifiable crypto proofs. | [Report](https://github.com/Kirkeelee/AuditReports/blob/main/2025.08.26%20-%20Final%20-%203Jane%20Collaborative%20Audit%20Report%201.0.pdf)|
 |Seamless Protocol - Leverage Tokens (Solidity) | Sherlock Collaborative Audit  | Leverage tokens simplifying complex DeFi strategies into tradeable ERC-20 tokens. | [Report](https://github.com/Kirkeelee/AuditReports/blob/main/2025.06.05%20-%20Final%20-%20Seamless%20Protocol%20Collaborative%20Audit%20Report%201749131188.pdf)|
 
