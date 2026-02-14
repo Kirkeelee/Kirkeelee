@@ -41,6 +41,7 @@
 ## Private Engagements
 | Project       | Engagement Type | Description | Report |
 |-------------------|-----------------|-------------|------|
+|Elitra (Solidity)  | Sherlock Collaborative Audit | Elitra is a cross-chain yield orchestration protocol utilizing ERC-4626 vaults to automate asset bridging and strategy execution via Circle CCTP and LayerZero adapters.  | |
 |Dorado Games (Solidity, Typescript)  |   Sherlock Collaborative Audit |An onchain multiplayer crash game with commit/reveal scheme for provably fair crash points.    |
 |40acres Finance(Solidity)    | Sherlock Collaborative Audit |  40Acres is the leading DeFi protocol to lend, borrow, and automate strategies for vote escrow NFTs holders, like veAERO & veVELO.    |      |
 |C8ntinuum Launchpad (Solidity)  |  Solo Audit | The Decentralized launchpad for token creation, funding, and trading via bonding curves. | [Report](https://github.com/Kirkeelee/AuditReports/blob/main/Security%20Review%20For%20C8ntinuum%20Launchpad%20Protocol.pdf)|
