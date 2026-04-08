@@ -41,6 +41,7 @@
 ## Private Engagements
 | Project       | Engagement Type | Description | Report |
 |-------------------|-----------------|-------------|------|
+|NUVA finance (Solidity) | Sherlock Collaborative Audit  |   Nuva Finance is a cross-chain yield protocol built around a multi-layered vault architecture. It uses a dedicated router system to securely manage straightforward user deposits while coordinating complex, asynchronous asset withdrawals.| |
 |Autopilot (Solidity) | Sherlock Collaborative Audit   |  A decentralized parlay and flex betting platform leveraging gasless meta-transactions to streamline user interactions. | |
 |40acres Finance Update(Solidity)|Sherlock Collaborative Audit | 40Acres is the leading DeFi protocol to lend, borrow, and automate strategies for vote escrow NFTs holders, like veAERO & veVELO.|   |
 |Elitra (Solidity)  | Sherlock Collaborative Audit | Elitra is a cross-chain yield orchestration protocol utilizing ERC-4626 vaults to automate asset bridging and strategy execution via Circle CCTP and LayerZero adapters.  | |
