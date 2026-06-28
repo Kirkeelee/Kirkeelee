@@ -41,6 +41,7 @@
 ## Private Engagements
 | Project       | Engagement Type | Description | Report |
 |-------------------|-----------------|-------------|------|
+|Noon Capital (Solidity) | Sherlock Collaborative Audit |   A cross-chain stablecoin protocol (USN) with staking vaults and OFT/Hyperlane bridging, paired with a governance token (NOON) featuring staking, vesting, and time-weighted reward distribution. |
 |Summer.fi (Solidity) | Sherlock Collaborative Audit  |   A decentralized yield protocol that brings tokenized Real World Assets (RWAs) natively into DeFi by leveraging a specialized WisdomTree integration to route aggregated user liquidity directly into secure, institutional-grade asset strategies.|   |
 |Somnia Network (Solidity) | Sherlock Collaborative Audit | A token swap project focused on stablecoin conversions and onboarding flows. |      |
 |Paydify (Solidity) |  Sherlock Collaborative Audit     |  Paydify is a smart contract escrow protocol that brings traditional e-commerce payment lifecycles, including authorizations, captures, and refunds on-chain. | |
