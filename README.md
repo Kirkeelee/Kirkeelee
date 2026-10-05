@@ -2,7 +2,7 @@
 
 **Independent Security Auditor** specializing in **smart contract audits**, **formal verification**, and **blockchain security** for DeFi protocols, cross-chain infrastructure, and Web3 applications.
 
-📊 **34 public contests · 24 Highs / 28 Mediums · 20 private engagements · 1st, 2nd & 3rd place finishes**
+📊 **100+ High & Medium findings · 30+ public contests · 20+ private engagements · 1st, 2nd & 3rd place finishes**
 
 🔍 **Audit Services:** Solidity Audits | Rust Audits | Move Audits | Cairo Audits | Go Audits | Security Consulting
 
