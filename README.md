@@ -41,6 +41,9 @@
 ## Private Engagements
 | Project       | Engagement Type | Description | Report |
 |-------------------|-----------------|-------------|------|
+|GetPicks (Solidity) | Sherlock Collaborative Audit | Picks Arena is an on-chain engine for peer-to-peer pick'em contests that locks signed entries in isolated vault pairs, verifies revealed picks against finalized markets, and settles authority-signed prizes under hard payout bounds. | |
+|Paydify Update 3 (Solidity) | Sherlock Collaborative Audit | Paydify is a smart contract escrow protocol that brings traditional e-commerce payment lifecycles, including authorizations, captures, and refunds on-chain. | |
+|Paydify Update 2 (Solidity) | Sherlock Collaborative Audit | Paydify is a smart contract escrow protocol that brings traditional e-commerce payment lifecycles, including authorizations, captures, and refunds on-chain. | |
 |Paydify Update(Solidity) |  Sherlock Collaborative Audit | Paydify is a smart contract escrow protocol that brings traditional e-commerce payment lifecycles, including authorizations, captures, and refunds on-chain.  | | 
 |Noon Capital (Solidity) | Sherlock Collaborative Audit |   A cross-chain stablecoin protocol (USN) with staking vaults and OFT/Hyperlane bridging, paired with a governance token (NOON) featuring staking, vesting, and time-weighted reward distribution. |
 |Summer.fi (Solidity) | Sherlock Collaborative Audit  |   A decentralized yield protocol that brings tokenized Real World Assets (RWAs) natively into DeFi by leveraging a specialized WisdomTree integration to route aggregated user liquidity directly into secure, institutional-grade asset strategies.|   |
