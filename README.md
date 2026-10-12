@@ -43,6 +43,7 @@
 ## Private Engagements
 | Project       | Engagement Type | Description | Report |
 |-------------------|-----------------|-------------|------|
+|Stocks.ink (Solidity) | Sherlock Collaborative Audit | Stocks.ink is a launchpad for tokenized stock treasuries: tokens backed by tokenized real-world stocks trade on a bonding curve that graduates into a Uniswap V4 pool with TWAMM orders, with staking, redemption and holder governance over the on-chain treasury. | |
 |GetPicks (Solidity) | Sherlock Collaborative Audit | Picks Arena is an on-chain engine for peer-to-peer pick'em contests that locks signed entries in isolated vault pairs, verifies revealed picks against finalized markets, and settles authority-signed prizes under hard payout bounds. | |
 |Paydify Update 3 (Solidity) | Sherlock Collaborative Audit | Paydify is a smart contract escrow protocol that brings traditional e-commerce payment lifecycles, including authorizations, captures, and refunds on-chain. | |
 |Paydify Update 2 (Solidity) | Sherlock Collaborative Audit | Paydify is a smart contract escrow protocol that brings traditional e-commerce payment lifecycles, including authorizations, captures, and refunds on-chain. | |
